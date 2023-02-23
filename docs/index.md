@@ -7,6 +7,4 @@
 ## [2022/12/09:例会資料](./2022/2022-1209.md)
 ## [2022/11/18:例会資料](./2022/2022-1118.md)
 ## [2022/11/04:例会資料](./2022/2022-1104.md)
-![test](https://drive.google.com/file/d/1TjxCaZknsnKwfDjuIvUq_jV6tJebv4FJ/view?usp=share_link)
-![test2](https://photos.app.goo.gl/cjULsey4XLBR7nGE6)\
-
+![test2](https://cdn.discordapp.com/attachments/831773372030779422/1077399161198096394/image.png)\
