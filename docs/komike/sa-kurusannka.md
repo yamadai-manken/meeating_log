@@ -46,8 +46,7 @@ c102(2023年夏コミ)のサークル入場時間は**8:00～9:30**です。\
 [ここ(GoogleMap)](https://goo.gl/maps/GA5Gp2profteK3q6A)(国際展示場駅から外に出てすぐ左のセブンイレブン前の広場)での集合は比較的しやすいです。\
 2022年冬コミで撮影\
 ![](https://cdn.discordapp.com/attachments/1129317681334599680/1129318447566835732/IMG_1178.jpg)\
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d202.67036936466505!2d139.79200281190202!3d35.63448296531454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601889e816752e83%3A0x7f820ae000bcc26b!2z44CSMTM1LTAwNjMg5p2x5Lqs6YO95rGf5p2x5Yy65pyJ5piO77yT5LiB55uu77yX!5e0!3m2!1sja!2sjp!4v1689320497962!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d241.0174098939455!2d139.79223204293694!3d35.63436203822169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDM4JzA0LjEiTiAxMznCsDQ3JzMxLjciRQ!5e0!3m2!1sja!2sjp!4v1689347557378!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ### **サークル入場**
 基本的にはビックサイトを目指して歩いていれば自然に入場口まで行けます。\
 標識とか、運営さんのアナウンスがあるので注意深くしていれば問題ないはずです。
